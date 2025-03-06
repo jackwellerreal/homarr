@@ -57,7 +57,7 @@
           },
           "notification": {
             "error": {
-              "title": "Geçersiz Anahtar",
+              "title": "Token",
               "message": "Girdiğiniz Token Anahtarı Geçersiz"
             }
           }
@@ -363,7 +363,7 @@
           },
           "full-all": {
             "label": "Tam panel erişimi",
-            "description": "Üyelerin tüm panelleri görüntülemesine, değiştirmesine ve silmesine izin ver (Erişim kontrolü ve tehlikeli alan dahil)"
+            "description": "Üyelerin tüm panelleri görüntülemesine, değiştirmesine ve silmesine izin ver (Erişim kontrolü ve Tehlikeli alan dahil)"
           }
         }
       },
@@ -1705,8 +1705,8 @@
           "columnTitle": "Kontroller"
         },
         "added": {
-          "columnTitle": "Ekleme",
-          "detailsTitle": "Ekleme Tarihi"
+          "columnTitle": "Eklenme",
+          "detailsTitle": "Eklenme Tarihi"
         },
         "category": {
           "columnTitle": "Ekstralar",
@@ -1863,7 +1863,7 @@
         }
       },
       "tab": {
-        "workers": "İşçiler",
+        "workers": "İşler",
         "queue": "Kuyruk",
         "statistics": "İstatistik"
       },
@@ -2561,7 +2561,7 @@
           },
           "crawlingAndIndexing": {
             "title": "Arama ve İndeksleme",
-            "warning": "Buradaki ayarların etkinleştirilmesi veya devre dışı bırakılması, arama motorlarının sayfanızı arama ve indekleme şeklini ciddi şekilde etkileyecektir. Her ayar bir istek başlatır ve bu ayarları almak tarayıcının görevidir. Değişiklikler birkaç gün veya hafta sürebilir. Bazı ayarlar arama motoruna özel olabilir.",
+            "warning": "Buradaki ayarların etkinleştirilmesi veya devre dışı bırakılması, arama motorlarının sayfanızı arama ve indekleme şeklini ciddi şekilde etkileyecektir. Her ayar bir istek başlatır ve bu ayarları uygulamak tarayıcının görevidir. Değişiklikler birkaç gün veya hafta sürebilir. Bazı ayarlar arama motoruna özel olabilir.",
             "noIndex": {
               "title": "İndeksleme Yapma",
               "text": "Web sitesini arama motorlarında indekslemeyin veya herhangi bir arama sonucunda görüntülemeyin"
@@ -2690,7 +2690,7 @@
           "modal": {
             "createApiToken": {
               "title": "API anahtarı oluşturuldu",
-              "description": "API anahtarı oluşturuldu. Dikkatli olun, bu anahtar veritabanında şifrelenmiştir ve size bir daha asla aktarılmayacaktır. Bu anaharı kaybederseniz, bir daha erişmeniz mümkün değildir.",
+              "description": "API anahtarı oluşturuldu. Dikkatli olun, bu anahtar veritabanında şifrelenmiştir ve size bir daha asla aktarılmayacaktır. Bu anahtarı kaybederseniz, bir daha erişmeniz mümkün değildir.",
               "button": "Kopyala ve kapat"
             }
           },
@@ -2776,7 +2776,7 @@
         "label": "Başlat",
         "notification": {
           "success": {
-            "title": "Konteynerler başladı",
+            "title": "Konteynerler başlatıldı",
             "message": "Konteynerler başarıyla başlatıldı"
           },
           "error": {
